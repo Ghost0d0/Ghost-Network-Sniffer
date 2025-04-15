@@ -60,5 +60,6 @@ This tool is **not** for:
 MIT License  
 
 ---  
-
+> Buy me a coffee - _0xf89c84554c78B3194A56042bd803CcA62EA423E9_
+> 
 👻 **Ghost** - Because even ghosts leave traces.  
